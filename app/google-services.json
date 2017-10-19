@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "293164231882",
+    "firebase_url": "https://jabdam-fc1a2.firebaseio.com",
+    "project_id": "jabdam-fc1a2",
+    "storage_bucket": "jabdam-fc1a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293164231882:android:69ed51a3d1597398",
+        "android_client_info": {
+          "package_name": "com.usemalloc.jabdam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293164231882-1tm0htv7lo41rpmchbak83t1qbuqfpoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.usemalloc.jabdam",
+            "certificate_hash": "f1db7fcdd973479b56788a7ab950e50cf11da1ae"
+          }
+        },
+        {
+          "client_id": "293164231882-h46pcvnnj5o2el6es56km0ea0os77jf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVFvIUsFD5Iff-aCol0bdgN2y-9lerizM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293164231882-h46pcvnnj5o2el6es56km0ea0os77jf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
