@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b6af6f51eaabfb279fb95b01f140931971e470f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ujjawalpathak/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.0-beta1/4205dd8c33ada1468ab377afff0be95304ef72a/constraint-layout-solver-1.1.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="04205dd8c33ada1468ab377afff0be95304ef72a">
+        <dex dex="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.1.0-beta1_6e5bb7001d6de6390fdf7caa805bac30633f3c2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ujjawalpathak/.android/build-cache/b63c2a157fbd2976f519f05f298bfad9ae75add9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d83db670f4bd65da8074da613a7822103fb455d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ujjawalpathak/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_79d35d066a3e5571c817247674880b996e1b4d15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ujjawalpathak/.android/build-cache/28588239f79ac08e1e2617c29816b8acc3eb821b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="56f252cb04c2373cfd06a2baa1266cadd1c891f7">
+        <dex dex="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9982c144ad3be59a709a730392f08cd4cbc7fd9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ujjawalpathak/.android/build-cache/7a66e47124975bc23fddb217302755ddf0889441/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5753660caa486676aacf05857930d76589a09af9">
+        <dex dex="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7043aeb835cf1d541e52fc0342f9d499cc9c76e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f6ea19e41525ebb4c159f2f361f159161353e976">
+        <dex dex="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_07d956ae27490039b35fa0df3b07699a3c89e8f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ujjawalpathak/.android/build-cache/7f3841dfc3919ef2d1afe2918d4f2d5e0cb1db1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a6e6aacaec329d237a769ff6861b6e39dae9be9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ujjawalpathak/.android/build-cache/c2ac27026e787fe85848ec2fa9363525ef9932f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1321471b657e43ba5f0d28c582f66f25e0f4a1cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ujjawalpathak/.android/build-cache/5bea92c83cda7ab8af2bab8bba37e10e1f1a89f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4eeeae3583171699f8f69228f259fe41b6c36cc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ujjawalpathak/.android/build-cache/4c4132cd3046d7dda9e94a01c24b38f57f422c1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/ujjawalpathak/AndroidApps/Jabdam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8936f39dbd606002ce4aa3421fb341f9402ff653/classes.dex" />
+    </item>
+
+</items>
