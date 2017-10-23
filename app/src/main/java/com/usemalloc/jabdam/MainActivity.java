@@ -92,6 +92,7 @@ public class MainActivity extends AppCompatActivity {
         mMessageDatabaseReference = mFirebaseDatabase.getReference().child("message");
         mChatPhotoStorageReference = mFirebaseStorage.getReference().child("chat_photos");
 
+        // Initializing instances
         mProgressBar = (ProgressBar) findViewById(R.id.progressBar);
         mMessageListView = (ListView) findViewById(R.id.messageListView);
         mPhotoPickerButton = (ImageButton) findViewById(R.id.photoPickerButton);
